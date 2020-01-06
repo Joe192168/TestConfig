@@ -1,6 +1,0 @@
-spring:
-  datasource:
-    username: inmon
-    password: jhsz0603
-    url: jdbc:oracle:thin:@10.0.0.100:1521:edw
-    driver-class-name: oracle.jdbc.driver.OracleDriver
