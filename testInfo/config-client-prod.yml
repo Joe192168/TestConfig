@@ -1,10 +1,6 @@
 spring:
   datasource:
-    username: inmon
-    password: jhsz0603
-    url: jdbc:oracle:thin:@10.0.0.100:1521:edw
-    driver: com.mysql.cj.jdbc.Driver
-    type: com.alibaba.druid.pool.DruidDataSource
-    initialSize: 1
-    minIdle: 1
-    maxActive: 20
+    username: root
+    password: root
+    url: jdbc:mysql://192.168.15.128:3306/jdbc
+    driver-class-name: com.mysql.cj.jdbc.Driver
