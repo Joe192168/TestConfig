@@ -3,4 +3,4 @@ spring:
     username: inmon
     password: jhsz0603
     url: jdbc:oracle:thin:@10.0.0.100:1521:edw
-    driver: com.mysql.cj.jdbc.Driver
+    driver-class-name: com.mysql.cj.jdbc.Driver
